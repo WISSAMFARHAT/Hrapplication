@@ -1,0 +1,7 @@
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\bin\Release\HR Application.exe.config
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\obj\Release\HR Application.csprojResolveAssemblyReference.cache
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\obj\Release\HR_Application.Form1.resources
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\obj\Release\HR_Application.Properties.Resources.resources
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\obj\Release\HR Application.csproj.GenerateResource.Cache
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\obj\Release\HR Application.exe
+C:\Users\PC3\Desktop\Test App\HR Application\HR Application\obj\Release\HR Application.pdb
