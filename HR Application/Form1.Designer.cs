@@ -69,21 +69,19 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button7 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button9 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button8 = new Guna.UI2.WinForms.Guna2Button();
             this.label17 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
             this.panel7 = new System.Windows.Forms.Panel();
-            this.label19 = new System.Windows.Forms.Label();
             this.cartesianChart1 = new LiveCharts.WinForms.CartesianChart();
+            this.label19 = new System.Windows.Forms.Label();
+            this.panel6 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.flowLayoutPanel1.SuspendLayout();
             this.panel8.SuspendLayout();
@@ -682,52 +680,6 @@
             this.guna2TextBox1.Size = new System.Drawing.Size(266, 36);
             this.guna2TextBox1.TabIndex = 3;
             // 
-            // guna2Button6
-            // 
-            this.guna2Button6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2Button6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.guna2Button6.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button6.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(249)))), ((int)(((byte)(249)))));
-            this.guna2Button6.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
-            this.guna2Button6.ForeColor = System.Drawing.Color.Gray;
-            this.guna2Button6.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(249)))), ((int)(((byte)(249)))));
-            this.guna2Button6.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button6.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image")));
-            this.guna2Button6.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button6.Image")));
-            this.guna2Button6.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button6.Location = new System.Drawing.Point(909, 34);
-            this.guna2Button6.Name = "guna2Button6";
-            this.guna2Button6.Size = new System.Drawing.Size(39, 45);
-            this.guna2Button6.TabIndex = 7;
-            this.guna2Button6.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button6.Click += new System.EventHandler(this.guna2Button6_Click);
-            // 
-            // guna2Button7
-            // 
-            this.guna2Button7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2Button7.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.guna2Button7.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button7.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button7.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button7.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button7.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(249)))), ((int)(((byte)(249)))));
-            this.guna2Button7.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
-            this.guna2Button7.ForeColor = System.Drawing.Color.Gray;
-            this.guna2Button7.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(249)))), ((int)(((byte)(249)))));
-            this.guna2Button7.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button7.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image1")));
-            this.guna2Button7.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button7.Image")));
-            this.guna2Button7.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button7.Location = new System.Drawing.Point(954, 34);
-            this.guna2Button7.Name = "guna2Button7";
-            this.guna2Button7.Size = new System.Drawing.Size(39, 45);
-            this.guna2Button7.TabIndex = 8;
-            this.guna2Button7.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button7.Click += new System.EventHandler(this.guna2Button7_Click);
-            // 
             // guna2Button9
             // 
             this.guna2Button9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -787,8 +739,6 @@
             this.panel1.Controls.Add(this.label17);
             this.panel1.Controls.Add(this.guna2Button8);
             this.panel1.Controls.Add(this.guna2Button9);
-            this.panel1.Controls.Add(this.guna2Button7);
-            this.panel1.Controls.Add(this.guna2Button6);
             this.panel1.Controls.Add(this.guna2TextBox1);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label1);
@@ -811,15 +761,14 @@
             this.panel4.Size = new System.Drawing.Size(448, 353);
             this.panel4.TabIndex = 0;
             // 
-            // label18
+            // label21
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(17, 23);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(162, 32);
-            this.label18.TabIndex = 12;
-            this.label18.Text = "Objectives:";
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(216, 322);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(218, 21);
+            this.label21.TabIndex = 14;
+            this.label21.Text = "Powered by Shadi Farhat\r\n";
             // 
             // label20
             // 
@@ -830,14 +779,15 @@
             this.label20.TabIndex = 13;
             this.label20.Text = resources.GetString("label20.Text");
             // 
-            // label21
+            // label18
             // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(216, 322);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(218, 21);
-            this.label21.TabIndex = 14;
-            this.label21.Text = "Powered by Shadi Farhat\r\n";
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.Location = new System.Drawing.Point(17, 23);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(162, 32);
+            this.label18.TabIndex = 12;
+            this.label18.Text = "Objectives:";
             // 
             // panel5
             // 
@@ -848,14 +798,6 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(380, 353);
             this.panel5.TabIndex = 1;
-            // 
-            // panel6
-            // 
-            this.panel6.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel6.Location = new System.Drawing.Point(358, 0);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(22, 353);
-            this.panel6.TabIndex = 0;
             // 
             // panel7
             // 
@@ -868,6 +810,14 @@
             this.panel7.Size = new System.Drawing.Size(358, 353);
             this.panel7.TabIndex = 1;
             // 
+            // cartesianChart1
+            // 
+            this.cartesianChart1.Location = new System.Drawing.Point(18, 72);
+            this.cartesianChart1.Name = "cartesianChart1";
+            this.cartesianChart1.Size = new System.Drawing.Size(321, 215);
+            this.cartesianChart1.TabIndex = 12;
+            this.cartesianChart1.Text = "cartesianChart1";
+            // 
             // label19
             // 
             this.label19.AutoSize = true;
@@ -878,13 +828,13 @@
             this.label19.TabIndex = 11;
             this.label19.Text = "Test Result";
             // 
-            // cartesianChart1
+            // panel6
             // 
-            this.cartesianChart1.Location = new System.Drawing.Point(18, 72);
-            this.cartesianChart1.Name = "cartesianChart1";
-            this.cartesianChart1.Size = new System.Drawing.Size(392, 215);
-            this.cartesianChart1.TabIndex = 12;
-            this.cartesianChart1.Text = "cartesianChart1";
+            this.panel6.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel6.Location = new System.Drawing.Point(358, 0);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(22, 353);
+            this.panel6.TabIndex = 0;
             // 
             // panel3
             // 
@@ -984,8 +934,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
-        private Guna.UI2.WinForms.Guna2Button guna2Button6;
-        private Guna.UI2.WinForms.Guna2Button guna2Button7;
         private Guna.UI2.WinForms.Guna2Button guna2Button9;
         private Guna.UI2.WinForms.Guna2Button guna2Button8;
         private System.Windows.Forms.Label label17;
